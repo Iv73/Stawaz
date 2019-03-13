@@ -1,2 +1,2 @@
 # Stawaz
-A text-base space opera MPG game
+A text-based space opera MPG game
